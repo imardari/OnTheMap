@@ -115,6 +115,8 @@ extension LoginViewController: FBSDKLoginButtonDelegate {
             performAlert("Fail to login using facebook")
             return
         }
-        self.performFBLogin(result.token.tokenString)
+        if result.token != nil {
+            self.performFBLogin(result.token.tokenString)
+        }
     }
 }
