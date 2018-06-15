@@ -20,7 +20,7 @@ The OnTheMap app shares your fellow students locations on a map
 
 ## Requirements
 
-iOS 10.0+
+iOS 11.0+
 
 ## Screenshots of the app
 
