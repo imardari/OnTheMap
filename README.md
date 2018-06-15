@@ -1,8 +1,8 @@
 # OnTheMap
 
-The OnTheMap app shares your fellow students locations on a map.
+The OnTheMap app shares your fellow students locations on a map
 
-## Log in options
+## Login options
 
 <ul>
   <li>Udacity credentials</<li>
