@@ -18,6 +18,10 @@ The OnTheMap app shares your fellow students locations on a map
   <li>Update your location and/or the link</li>
 </ul>
 
+## Requirements
+
+iOS 10.0+
+
 ## Screenshots of the app
 
 <img width="262" alt="1" src="https://user-images.githubusercontent.com/25470293/41185251-6666c168-6b54-11e8-8e1b-77c2f24b395e.png"> <img width="265" alt="2" src="https://user-images.githubusercontent.com/25470293/41185252-667746b4-6b54-11e8-8399-e16826c755b6.png">
