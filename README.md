@@ -18,6 +18,9 @@ The OnTheMap app shares your fellow students locations on a map
   <li>Update your location and/or the link</li>
 </ul>
 
+## API
+Udacity API, Facebook API
+
 ## Requirements
 
 iOS 11.0+
